@@ -22,7 +22,7 @@ public abstract class ChessPiece extends Piece {
 		moveCount++;
 	}
 	
-	public void descreaseMoveCount() {
+	public void decreaseMoveCount() {
 		moveCount--;
 	}
 	
